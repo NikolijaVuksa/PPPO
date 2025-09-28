@@ -1,0 +1,21 @@
+Literatura
+
+Szeliski, R. (2010). Computer Vision: Algorithms and Applications. Springer.
+
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
+
+Schroff, F., Kalenichenko, D., & Philbin, J. (2015). FaceNet: A Unified Embedding for Face Recognition and Clustering. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+Zhang, K., Zhang, Z., Li, Z., & Qiao, Y. (2016). Joint Face Detection and Alignment Using Multi-task Cascaded Convolutional Networks. IEEE.
+
+Serengil, S. I., & Ozpinar, A. (2020). LightFace: A Hybrid Framework for Face Recognition. In Innovations in Intelligent Systems and Applications Conference (ASYU). IEEE.
+
+Cortes, C., & Vapnik, V. (1995). Support-Vector Networks. Springer.
+
+Bishop, C. M. (2006). Pattern Recognition and Machine Learning. Springer.
+
+Powers, D. M. W. (2011). Evaluation: From Precision, Recall and F-measure to ROC, Informedness, Markedness and Correlation. Journal of Machine Learning Technologies.
+
+Dalal, N., & Triggs, B. (2005). Histograms of Oriented Gradients for Human Detection. In CVPR.
+
+King, D. E. (2009). Dlib-ml: A Machine Learning Toolkit. Journal of Machine Learning Research.
